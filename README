@@ -1,4 +1,8 @@
 pySMPP version 0.1.2  (First public release)
+This python Package will implement the SMPP protocol in pure Python.
+This software is licensed under the GNU Public License (GPL),
+[see COPYING].
+
 
 Current status: 
  - it works. it is actually usable.
