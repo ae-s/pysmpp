@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pySMPP
+Version: 0.1.0
+Summary: UNKNOWN
+Home-page: http://hedona.on.net.mk/pySMPP-0.1.0.tar.gz
+Author: Damjan Georgievski
+Author-email: gdamjan_DONT@SPAM_mail.net.mk
+License: GPL
+Description: SMPP protocol
+Platform: python-2.2

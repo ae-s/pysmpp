@@ -1,0 +1,14 @@
+pySMPP version 0.1.1  (First public release)
+
+Current status: 
+ - it works. it is actually usable.
+ - tested with SMPPsim (http://www.mobilelandscape.co.uk)
+ - also tested with a real SMSC
+ - for examples see the demo?.py scripts.
+
+TODO:
+ - implement different types of SMS's
+ - re-think the API
+ - Documentation
+ - SMPP 3.4 features (?)
+
