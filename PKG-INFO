@@ -1,10 +1,10 @@
 Metadata-Version: 1.0
 Name: pySMPP
-Version: 0.1.2
+Version: 0.2.0
 Summary: UNKNOWN
 Home-page: http://pysmpp.sourceforge.net
 Author: Damjan Georgievski
-Author-email: gdamjan_DONT@SPAM_mail.net.mk
+Author-email: penguinista _DONT_SPAM_AT_ mail _DOT_ net _DOT_ mk
 License: GPL
 Description: SMPP protocol
 Platform: python-2.2
